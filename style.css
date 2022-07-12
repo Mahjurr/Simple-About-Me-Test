@@ -1,0 +1,81 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+header, footer {
+  background-color: #696969;
+  text-align: center;
+}
+
+body {
+  background-color: #c4c3c0;
+}
+
+h1,h2, h3, nav, footer, h4 {
+  color: black;
+  text-align: center;
+  font-family: Roboto;
+}
+
+h2 {
+  font-size: 18px;
+  position: relative;
+  top: -24px;
+}
+
+h3 {
+  font-family: Trebuchet MS;  
+}
+
+
+.firstText {
+  text-align: center;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.mj_image, .mplsMap {
+  align-content: center;
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.listofjoy, .contactOrder {
+text-align: center;
+}
+
+.listofjoy_li, .contactList {
+  display: inline-block;
+  text-align: left;
+}
+
+.link {
+  text-align: center;
+}
+
+.aboutSection {
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+.contactSection {
+  text-align: center;
+  
+}
+
+hr {
+  border: 1px solid black;
+  width: 300px;
+}
+
+footer {
+  height: 6%;
+}
